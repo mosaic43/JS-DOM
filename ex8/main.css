@@ -5,3 +5,9 @@
 #description, #search, #todo-list {
     font-size: 1.5em;
 }
+
+ul li.checked {
+    
+    color:#063615;
+    text-decoration: line-through;
+  }
